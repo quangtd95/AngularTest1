@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'Hello angular2';
+  public subtitle = 'quang dep trai';
+  public image = 'https://www.lorempixel.com/300/300/';
 }
